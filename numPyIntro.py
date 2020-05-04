@@ -57,7 +57,7 @@ print(twoDArray.dtype,'dtype')
 
 8.np.transpose(array_name, axes=None)  or array_name.T'''
 
-
+###############SLUTIONS#########################SOLUTIONS##################################
 
 #1
 npOnes=np.ones([4,3],dtype=int)
